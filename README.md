@@ -16,9 +16,9 @@ You will also see any lint errors in the console.
  nodemon server
 
 ### Connection Mongo
- sudo service mongod start
- mongo
- use todos
+ sudo service mongod start <br>
+ mongo <br>
+ use todos <br
 
 
 ### `npm test`
