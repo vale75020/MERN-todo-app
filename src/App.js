@@ -14,7 +14,7 @@ function App() {
         <nav className="navbar navbar-expand-lg navbar-light bg-light">
           <a
             className="navbar-brand"
-            href="https://github.com/vale75020?tab=repositories"
+            href="https://github.com/vale75020/MERN-todo-app"
           >
           <img src={logo} width="50" height="50" alt="my_github_repo" />
           </a>
