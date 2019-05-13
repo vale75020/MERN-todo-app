@@ -18,7 +18,7 @@ You will also see any lint errors in the console.
 ### Connection Mongo
  sudo service mongod start <br>
  mongo <br>
- use todos <br
+ use todos <br>
 
 
 ### `npm test`
