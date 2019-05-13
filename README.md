@@ -13,12 +13,12 @@ The page will reload if you make edits.<br>
 You will also see any lint errors in the console.
 
 ### Start Server 
-## nodemon server
+# nodemon server
 
-### Connction Mongo
-## sudo service mongod start
-## mongo
-## use todos
+### Connection Mongo
+# sudo service mongod start
+# mongo
+# use todos
 
 
 ### `npm test`
